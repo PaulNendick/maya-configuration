@@ -1,15 +1,3 @@
----
-published: true
-layout: article
-title: The Maya Configuration Rosetta Stone
-abstract: A compendium of all known configuration options for Autodesk Maya.
-author_twitter: PaulNendick
-author: Paul Nendick
-categories:
-- articles
-
----
-
 # Who is this guide for?
 Anyone who uses Autodesk Maya in anger, especially those of us doing so on Linux platforms. All details have been culled from official documentation, mailing lists, Autodesk support and the occasional reverse engineering. 
 
